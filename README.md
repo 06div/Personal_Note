@@ -11,18 +11,18 @@ This is a project that can save multiple note in the application without any lim
      <td>Create New Note</td>
   </tr>
   <tr>
-    <td><img src=""![WhatsApp Image 2023-07-31 at 12 05 08 AM](https://github.com/06div/Personal_Note/assets/138322370/ec28ac90-45a9-4fc8-a40b-f81052fd3c3d)"" width=270 height=480></td>
-    <td><img src=""C:\Users\Divya Sharma\Downloads\WhatsApp Image 2023-07-31 at 12.05.08 AM(1).jpeg"" width=270 height=480></td>
-    <td><img src=""C:\Users\Divya Sharma\Downloads\WhatsApp Image 2023-07-31 at 12.05.08 AM(2).jpeg"" width=270 height=480></td>
-    <td><img src=""C:\Users\Divya Sharma\Downloads\WhatsApp Image 2023-07-31 at 12.05.08 AM(3).jpeg"" width=270 height=480></td>
+    <td><img src=""![WhatsApp Image 2023-07-31 at 12 05 08 AM](https://github.com/06div/Personal_Note/assets/138322370/5543e595-018c-4a46-890e-f6a15a41967f)"" width=270 height=480></td>
+    <td><img src=""![WhatsApp Image 2023-07-31 at 12 05 08 AM(1)](https://github.com/06div/Personal_Note/assets/138322370/57a21092-5dd1-4e67-b3da-10b154304786)"" width=270 height=480></td>
+    <td><img src=""![WhatsApp Image 2023-07-31 at 12 05 08 AM(2)](https://github.com/06div/Personal_Note/assets/138322370/d54de5e6-38a7-4fd6-bdf0-866e90d37bfa)"" width=270 height=480></td>
+    <td><img src=""![WhatsApp Image 2023-07-31 at 12 05 08 AM(3)](https://github.com/06div/Personal_Note/assets/138322370/4b5d624b-acd3-4255-a299-e5baf1fe7762)"" width=270 height=480></td>
   </tr>
  </table>
 
-![WhatsApp Image 2023-07-31 at 12 05 08 AM](https://github.com/06div/Personal_Note/assets/138322370/ec28ac90-45a9-4fc8-a40b-f81052fd3c3d)
 
+![WhatsApp Image 2023-07-31 at 12 05 08 AM](https://github.com/06div/Personal_Note/assets/138322370/5543e595-018c-4a46-890e-f6a15a41967f) 
+![WhatsApp Image 2023-07-31 at 12 05 08 AM(1)](https://github.com/06div/Personal_Note/assets/138322370/57a21092-5dd1-4e67-b3da-10b154304786)
+![WhatsApp Image 2023-07-31 at 12 05 08 AM(2)](https://github.com/06div/Personal_Note/assets/138322370/d54de5e6-38a7-4fd6-bdf0-866e90d37bfa)
+![WhatsApp Image 2023-07-31 at 12 05 08 AM(3)](https://github.com/06div/Personal_Note/assets/138322370/4b5d624b-acd3-4255-a299-e5baf1fe7762)
 
-<p float="left">
-  <img src="/C:\Users\Divya Sharma\Downloads\WhatsApp Image 2023-07-31 at 12.05.08 AM(1).jpeg" width="100" />
-  <img src="/![WhatsApp Image 2023-07-31 at 12 05 08 AM](https://github.com/06div/Personal_Note/assets/138322370/ec28ac90-45a9-4fc8-a40b-f81052fd3c3d)" width="100" /> 
-  <img src="/C:\Users\Divya Sharma\Downloads\WhatsApp Image 2023-07-31 at 12.05.08 AM(2).jpeg" width="100" />
-</p>
+<figure><img src=""C:\Users\Divya Sharma\Downloads\WhatsApp Image 2023-07-31 at 12.05.08 AM.jpeg"" alt="The GitBook Logo"></figure>
+
